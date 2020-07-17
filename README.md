@@ -3,35 +3,35 @@
 
 
 
-1. Go to http://office.com/GetOffice365 and enter your INTI student email address
+1. Go to https://bit.ly/32s12g0 and enter your INTI student email address
 (xxx@student.newinti.edu.my).
 
-<img src="./img/install-guides/guide-step-1.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-1.png" width="700">
 
-2. Click “I’m a student”.
+1. Click “I’m a student”.
    
-<img src="./img/install-guides/guide-step-2.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-2.png" width="700">
 
 1. Create your account and enter the verification code. Verification code has been sent to
 your INTI student email. Click “Start” to continue.
 
-<img src="./img/install-guides/guide-step-3.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-3.png" width="700">
 
 1. Click “Skip”.
    
-<img src="./img/install-guides/guide-step-4.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-4.png" width="700">
 
 1. Click “Install Office” and “Office 365 apps”.
 
-<img src="./img/install-guides/guide-step-5.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-5.png" width="700">
 
-6. Wait for the installer to be downloaded.
+1. Wait for the installer to be downloaded.
 
-<img src="./img/install-guides/guide-step-6.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-6.png" width="700">
 
-7. Run the downloaded installer and follow the instructions.
+1. Run the downloaded installer and follow the instructions.
 
-<img src="./img/install-guides/guide-step-7.png" width="700" style="text-shadow: 2px 2px 4px #000000">
+<img src="./img/install-guides/guide-step-7.png" width="700">
 
 End
 
@@ -42,4 +42,4 @@ sign in with your account.
 - To install your Microsoft Office 365, follow the Step 5 – 7 to download and install Microsoft Office.
 
 
-Reference link: https://ecampus.inti.edu.my/Guide_Microsoft_Office_for_Students.pdf
+Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?authuser=0
