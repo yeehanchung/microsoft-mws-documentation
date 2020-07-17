@@ -1,39 +1,37 @@
-# Installation guide for Microsoft Office 365 for INTI Students
+# Step by Step Guide to Sign Up and Download Microsoft Office 365
+
+### [For INTI students only]
 
 
-
-
-1. Go to https://bit.ly/32s12g0 and enter your INTI student email address
-(xxx@student.newinti.edu.my).
+## 1. Go to https://bit.ly/32s12g0 and enter your INTI student email address (xxx@student.newinti.edu.my).
 
 <img src="./img/install-guides/guide-step-1.png" width="700">
 
-1. Click “I’m a student”.
+## 2. Click “I’m a student”.
    
 <img src="./img/install-guides/guide-step-2.png" width="700">
 
-1. Create your account and enter the verification code. Verification code has been sent to
-your INTI student email. Click “Start” to continue.
+## 3. Create your account and enter the verification code. Verification code has been sent to your INTI student email. Click “Start” to continue.
 
 <img src="./img/install-guides/guide-step-3.png" width="700">
 
-1. Click “Skip”.
+## 4. Click “Skip”.
    
 <img src="./img/install-guides/guide-step-4.png" width="700">
 
-1. Click “Install Office” and “Office 365 apps”.
+## 5. Click “Install Office” and “Office 365 apps”.
 
 <img src="./img/install-guides/guide-step-5.png" width="700">
 
-1. Wait for the installer to be downloaded.
+## 6. Wait for the installer to be downloaded.
 
 <img src="./img/install-guides/guide-step-6.png" width="700">
 
-1. Run the downloaded installer and follow the instructions.
+## 7. Run the downloaded installer and follow the instructions.
 
 <img src="./img/install-guides/guide-step-7.png" width="700">
 
-End
+## End
 
 
 - To access your Microsoft Office 365 account in the future, go to http://portal.office.com and
