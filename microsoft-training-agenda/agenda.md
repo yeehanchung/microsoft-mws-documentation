@@ -1,7 +1,7 @@
 # Microsoft Training Agenda - 11 and 12 August 2020
 
-## Day 1
 
+## Day 1
 Time | Event 
 ------- | -------
 9.00 am - 9.15 am  | Ready
@@ -15,7 +15,6 @@ Time | Event 
 13.00 pm | End
 
 ## Day 2
- 
 Time | Event 
 ------- | -------
 9.00 am - 9.15 am  | Ready
