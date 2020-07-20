@@ -15,7 +15,7 @@ Time | Event 
 13.00 pm | End
 
 ## Day 2
- 	
+ 
 Time | Event 
 ------- | -------
 9.00 am - 9.15 am  | Ready
