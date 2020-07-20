@@ -1,4 +1,4 @@
-# Microsoft Training Agenda - 11 and 12 August 2020
+# Virtual Microsoft Training Agenda - 11 and 12 August 2020
 
 
 ## Day 1
