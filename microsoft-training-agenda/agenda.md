@@ -12,7 +12,7 @@ Time | Event 
 10.45 am -11.30 am  | Teams + Planner
 11.30 am - 12.15 pm  | Word + OneDrive 
 12.15 pm - 1.00 pm  | Excel
-1.30 pm | Summary + What's next for day 2
+1.00 pm - 1.30 pm | Summary + What's next for day 2
 1.30 pm | End
 
 ## Day 2
