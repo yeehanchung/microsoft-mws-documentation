@@ -11,7 +11,7 @@ Time | Event 
 10.05 am-10.45 am  | Office 365 Introduction + Installation 
 10.45 am -11.30 am  | Teams + Planner
 11.30 am - 12.15 pm  | Word + OneDrive 
-12.15 pm - 13.00 pm  | Excel
+12.15 pm - 1.00 pm  | Excel
 1.00 pm | End
 
 ## Day 2
