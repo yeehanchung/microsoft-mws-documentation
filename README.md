@@ -43,7 +43,7 @@ sign in with your account.
 Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?authuser=0
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
 
 ## Frequently Asked Questions (FAQ)
@@ -53,7 +53,7 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 #### Office 365 Installation FAQS
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
 
 ## Contributors
@@ -65,5 +65,5 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 :star: Yee Han
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
