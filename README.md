@@ -1,7 +1,8 @@
-# Step by Step Guide to Sign Up and Download Microsoft Office 365
+# Table of Contents
+- [Step by Step Guide to Sign Up and Download Microsoft Office 365](#step-by-step-guide-to-sign-up-and-download-microsoft-office-365)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
-### [For INTI students only]
-
+## Step by Step Guide to Sign Up and Download Microsoft Office 365
 
 ### 1. Go to https://bit.ly/32s12g0 and enter your INTI student email address (xxx@student.newinti.edu.my).
 
@@ -33,11 +34,15 @@
 
 ### End
 
-
 - To access your Microsoft Office 365 account in the future, go to http://portal.office.com and
 sign in with your account. 
 
 - To install your Microsoft Office 365, follow the Step 5 – 7 to download and install Microsoft Office.
 
-
 Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?authuser=0
+
+## Frequently Asked Questions (FAQ)
+
+#### Microsoft Teams FAQS
+
+#### Office 365 Installation FAQS
