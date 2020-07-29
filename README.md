@@ -41,6 +41,8 @@ sign in with your account.
 
 Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?authuser=0
 
+ <a href="#Table of Contents" style="text-align: right">Back to top</a>
+
 ## Frequently Asked Questions (FAQ)
 
 #### Microsoft Teams FAQS
