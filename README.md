@@ -1,6 +1,7 @@
 # Table of Contents
 - [Step by Step Guide to Sign Up and Download Microsoft Office 365](#step-by-step-guide-to-sign-up-and-download-microsoft-office-365)
-
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- [Contributors](#contributors)
 
 ## Step by Step Guide to Sign Up and Download Microsoft Office 365
 
@@ -45,3 +46,24 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
 
+## Frequently Asked Questions (FAQ)
+
+#### Microsoft Teams FAQS
+
+#### Office 365 Installation FAQS
+
+<div align="right">
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
+</div>
+
+## Contributors
+>Names are listed in alphabetical order
+<h6>Microsoft Malaysia Ambassadors </h6>
+
+:star: Evelyn Cheah 
+:star: Stephanie Chong 
+:star: Yee Han
+
+<div align="right">
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
+</div>
