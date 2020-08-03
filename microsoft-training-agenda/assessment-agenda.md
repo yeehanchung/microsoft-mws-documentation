@@ -1,7 +1,8 @@
 # Microsoft Virtual Assessment Agenda (14 Aug 2020)
 
-#### In Construction (refer to recruitment-plan)
+- [Microsoft Virtual Assessment Agenda (14 Aug 2020)](#microsoft-virtual-assessment-agenda-14-aug-2020)
 
+In Construction (refer to recruitment-plan)
 
 | Time              | Event         | Number of Groups |
 | ----------------- | ------------- | ---------------- |
