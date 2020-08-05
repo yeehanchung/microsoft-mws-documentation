@@ -17,7 +17,7 @@ Time | Event | Host
 9.15 am - 9.25 am  | Welcoming Speech from Microsoft Malaysia | Casandra & Mun Hong 
 9.25 am - 9.45 am  | Introduction + Meet the Team + What is MW Squad? | Lee Zhen Hao
 9.45 am - 10.15 am  | Office 365 Introduction | Lee Zhen Hao
-10.15 am - 10.25 am  | Break | 
+10 minutes  | Break | 
 10.25 am - 11.10 am  | Teams + Planner | Kashmiethaa
 11.10 am - 11.55 am  | Word + OneDrive | Ain Batrisya
 11.55 am - 12.40 pm  | Excel | Nazhif Ridzuan
@@ -31,7 +31,7 @@ Time | Event | Host
 9.15 am - 9.25 am | Start (Recap) | Crystal Lim Bee Yean
 9.25 am - 10.00 am  | PowerPoint | Isabella Chee
 10.00 am - 10.45 am  | OneNote | Irfan Iskandar
-10.45 am - 10.55 am | Break | 
+10 minutes | Break | 
 10.55 am - 11.35 am  | Outlook | Ong Jia Min
 11.35 am - 12.05 pm  | Closing Remark + Group Photo | Mun Hong
 12.05 pm - 12.35 pm  | Assessment Briefing (Grouping - 5 person) | Rafia Ferdous
