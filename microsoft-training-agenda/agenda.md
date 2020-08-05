@@ -19,7 +19,7 @@ Time | Event | Host
 9.45 am - 10.15 am  | Office 365 Introduction | Lee Zhen Hao
 10 minutes  | Break | 
 10.25 am - 11.10 am  | Teams + Planner | Kashmiethaa
-11.10 am - 11.55 am  | Word + OneDrive | Ain Batrisya
+11.10 am - 11.55 am  | Word + OneDrive | Ain Batrisyia
 11.55 am - 12.40 pm  | Excel | Nazhif Ridzuan
 12.40 pm - 1.00 pm | Summary + What's next for day 2 | Chung Yee Han
 1.00 pm | End | 
