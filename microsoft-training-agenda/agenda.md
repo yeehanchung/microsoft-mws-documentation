@@ -1,13 +1,17 @@
 # Microsoft Virtual Bootcamp Agenda (11+12 Aug 2020)
 
 - [Microsoft Virtual Bootcamp Agenda (11+12 Aug 2020)](#microsoft-virtual-bootcamp-agenda-1112-aug-2020)
+  - [INTI International University Staff](#inti-international-university-staff)
   - [Microsoft Malaysia Staff](#microsoft-malaysia-staff)
   - [Day 1](#day-1)
   - [Day 2](#day-2)
 
+## INTI International University Staff
+- Mr. Jess
+
 ## Microsoft Malaysia Staff
-- Casandra Seng
-- Teoh Mun Hong
+- Ms. Casandra Seng
+- Mr. Teoh Mun Hong
 
 ## Day 1
 Time | Event | Host | Moderator
