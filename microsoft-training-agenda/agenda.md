@@ -22,9 +22,9 @@ Time | Event | Host | Moderator
 9.25 am - 9.45 am  | Introduction + Meet the Team + What is MW Squad? | Lee Zhen Hao | -
 9.45 am - 10.15 am  | Office 365 Introduction | Lee Zhen Hao | -
 10 minutes  | Break | - | -
-10.25 am - 11.10 am  | Teams + Planner | Kashmiethaa | TBD
-11.10 am - 11.55 am  | Word + OneDrive | Ain Batrisyia | TBD
-11.55 am - 12.40 pm  | Excel | Nazhif Ridzuan | TBD
+10.25 am - 11.10 am  | Teams + Planner | Kashmiethaa | Crystal Lim
+11.10 am - 11.55 am  | Word + OneDrive | Ain Batrisyia | Chung Yee Han
+11.55 am - 12.40 pm  | Excel | Nazhif Ridzuan | Crystal Lim
 12.40 pm - 1.00 pm | Summary + What's next for day 2 | Chung Yee Han | -
 1.00 pm | End | - | -
 
@@ -32,11 +32,11 @@ Time | Event | Host | Moderator
 Time | Event | Host | Moderator
 ------- | ------- | ------- | -------
 9.00 am - 9.15 am  | Ready | - | -
-9.15 am - 9.25 am | Start (Recap) | Crystal Lim Bee Yean | - | -
-9.25 am - 10.00 am  | PowerPoint | Isabella Chee | TBD
-10.00 am - 10.45 am  | OneNote | Irfan Iskandar | TBD
+9.15 am - 9.25 am | Start (Recap) | Crystal Lim | - | -
+9.25 am - 10.00 am  | PowerPoint | Isabella Chee | Lee Zhen Hao
+10.00 am - 10.45 am  | OneNote | Irfan Iskandar | Lee Zhen Hao
 10 minutes | Break | - | -
-10.55 am - 11.35 am  | Outlook | Ong Jia Min | TBD
+10.55 am - 11.35 am  | Outlook | Ong Jia Min | Chung Yee Han
 11.35 am - 12.05 pm  | Closing Remark + Group Photo | Mr. Mun Hong | -
 12.05 pm - 12.35 pm  | Assessment Briefing (Grouping - 5 person) | Rafia Ferdous | -
 12.35 pm | End | - | -
