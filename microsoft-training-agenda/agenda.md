@@ -36,8 +36,8 @@ Time | Event | Host | Moderator
 9.25 am - 10.00 am  | PowerPoint | Isabella Chee | Lee Zhen Hao
 10.00 am - 10.45 am  | OneNote | Irfan Iskandar | Lee Zhen Hao
 10 minutes | Break | - | -
-10.55 am - 11.35 am  | Outlook | Ong Jia Min | Chung Yee Han
-11.35 am - 12.05 pm  | Closing Remark + Group Photo | Mr. Mun Hong | -
+10.55 am - 11.35 am  | Outlook | Stephanie Chong | Chung Yee Han
+11.35 am - 12.05 pm  | Closing Remark + Group Photo | Mr. Jess + Mr. Mun Hong | -
 12.05 pm - 12.35 pm  | Assessment Briefing (Grouping - 5 person) | Rafia Ferdous | -
 12.35 pm | End | - | -
 
