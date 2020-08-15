@@ -48,9 +48,11 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 
 ## Frequently Asked Questions (FAQ)
 
-#### Microsoft Teams FAQS
-
-#### Office 365 Installation FAQS
+1. I forgot my INTI Microsoft student account password, what should I do?
+**Please send an email to helpdesk@newinti.edu.my to ask for account password reset during working hours.**
+<br>
+2. Why I could not join a Team via link?
+**Please ensure you are using your INTI Microsoft student account.**
 
 <div align="right">
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
@@ -60,6 +62,7 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 >Names are listed in alphabetical order
 <h6>Microsoft Malaysia Ambassadors </h6>
 
+:star: Chin Wen Man
 :star: Evelyn Cheah 
 :star: Stephanie Chong 
 :star: Yee Han
