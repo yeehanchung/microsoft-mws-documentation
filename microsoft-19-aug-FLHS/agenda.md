@@ -2,7 +2,7 @@
 
 
 **Objectives:** 
-- To equip students with essential knowledge of Microsoft Office 365
+- To equip students with essential Microsoft Office 365 skills
 
 Time | Event | Host | Moderator
 ------- | ------- | ------- | -------
