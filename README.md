@@ -5,7 +5,7 @@
   - [Contacts of Microsoft Modern Workplace Squad Leaders](#contacts-of-microsoft-modern-workplace-squad-leaders)
   - [Contributors](#contributors)
 
-<h4><span style="color: red"><em>*Please read FAQ section if you have any issue*</em></span></h4>
+<h4><em>*Please read FAQ section if you have any issue*</em></h4>
 
 ## Step by Step Guide to Sign Up and Download Microsoft Office 365
 
@@ -52,11 +52,12 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 
 ## Frequently Asked Questions (FAQ)
 
-1. I forgot my INTI Microsoft student account password, what should I do? <br>
-**Please send an email to helpdesk@newinti.edu.my to ask for account password reset during working hours.**
-<br>
+> 1. I forgot my INTI Microsoft student account password, what should I do? <br> 
 
-2. Why I could not join a Team via link? <br>
+**Please send an email to helpdesk@newinti.edu.my to request for account password reset during working hours.**
+
+> 2. Why I could not join a Team via link? <br> 
+
 **Please ensure you are using your INTI Microsoft student account.**
 
 <div align="right">
@@ -75,8 +76,7 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 </div>
 
 ## Contributors
->Names are listed in alphabetical order
-<h6>Microsoft Malaysia Ambassadors </h6>
+>Names of Microsoft Malaysia Ambassadors are listed in alphabetical order
 
 :star: Chin Wen Man
 :star: Chung Yee Han
