@@ -1,13 +1,13 @@
 # Table of Contents
 
-  - [Step by Step Guide to Sign Up and Download Microsoft Office 365](#ustep-by-step-guide-to-sign-up-and-download-microsoft-office-365u)
-  - [Frequently Asked Questions (FAQ)](#ufrequently-asked-questions-faqu)
-  - [Contacts of Microsoft Modern Workplace Squad Leaders](#ucontacts-of-microsoft-modern-workplace-squad-leadersu)
+  - [Step by Step Guide to Sign Up and Download Microsoft Office 365](#step-by-step-guide-to-sign-up-and-download-microsoft-office-365)
+  - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+  - [Contacts of Microsoft Modern Workplace Squad Leaders](#contacts-of-microsoft-modern-workplace-squad-leaders)
   - [Contributors](#contributors)
 
-<h4 style="color: #dc3545"> *Please read FAQ section if you have any issue* </h4>
+<h4><span style="color: #dc3545"><em>*Please read FAQ section if you have any issue*</em></span></h4>
 
-## <u>Step by Step Guide to Sign Up and Download Microsoft Office 365</u>
+## Step by Step Guide to Sign Up and Download Microsoft Office 365
 
 <h4> 1. Go to https://bit.ly/32s12g0 and enter your INTI student email address (xxx@student.newinti.edu.my). </h4>
 <br>
@@ -50,7 +50,7 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
 
-## <u>Frequently Asked Questions (FAQ)</u>
+## Frequently Asked Questions (FAQ)
 
 1. I forgot my INTI Microsoft student account password, what should I do?
 **Please send an email to helpdesk@newinti.edu.my to ask for account password reset during working hours.**
@@ -63,7 +63,7 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
 </div>
 
-## <u>Contacts of Microsoft Modern Workplace Squad Leaders</u>
+## Contacts of Microsoft Modern Workplace Squad Leaders
 
 - Lee Zhen Hao
 j19030823@student.newinti.edu.my
