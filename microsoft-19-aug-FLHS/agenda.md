@@ -18,6 +18,8 @@ Time | Event | Host | Moderator
 4.25 pm - 4.30 pm | Ending speech | Crystal Lim | -
 4.30 pm | End | - | -
 
+<h4 style="color: #dc3545"> *Please read this* </h4>
+
 - If you have not download the latest Office 365, please make sure you download it before joining the bootcamp. 
 INTI provides free sign up for Microsoft Office 365 to INTI Students. Click [here](https://github.com/cyeehan/microsoft-resources) for Office 365 Installation Guide.
 
