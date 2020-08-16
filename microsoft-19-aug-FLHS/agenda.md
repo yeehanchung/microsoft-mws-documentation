@@ -13,6 +13,6 @@ Time | Event | Host | Moderator
 3.05 pm - 3.25 pm  | OneDrive | Lee Zhen Hao | -
 3.25 pm - 3.55 pm  | OneNote | Irfan Iskandar | -
 3.55 pm - 4.25 pm  | Excel | Nazhif Ridzuan | -
-4.25 pm - 4.30 | Ending speech | Crystal Lim | -
+4.25 pm - 4.30 pm | Ending speech | Crystal Lim | -
 4.30 pm | End | - | -
 
