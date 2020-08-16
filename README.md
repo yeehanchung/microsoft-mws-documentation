@@ -6,6 +6,7 @@
   - [Contributors](#contributors)
 
 <h4><em>*Please read FAQ section if you have any issue*</em></h4>
+<br><br>
 
 ## Step by Step Guide to Sign Up and Download Microsoft Office 365
 
