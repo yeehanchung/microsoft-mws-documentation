@@ -51,8 +51,24 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 1. I forgot my INTI Microsoft student account password, what should I do?
 **Please send an email to helpdesk@newinti.edu.my to ask for account password reset during working hours.**
 <br>
+
 2. Why I could not join a Team via link?
 **Please ensure you are using your INTI Microsoft student account.**
+
+<div align="right">
+    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
+</div>
+
+## Contacts of Microsoft Modern Workplace Squad Leaders
+
+- Lee Zhen Hao
+j19030823@student.newinti.edu.my
+- Chung Yee Han
+i18015334@student.newinti.edu.my
+- Crystal Lim Bee Yean
+i16011167@student.newinti.edu.my
+- Rafia Ferdous Mim
+j17025920@student.newinti.edu.my
 
 <div align="right">
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
@@ -63,9 +79,9 @@ Reference link: https://sites.google.com/newinti.edu.my/intihub/get-office-365?a
 <h6>Microsoft Malaysia Ambassadors </h6>
 
 :star: Chin Wen Man
-:star: Evelyn Cheah 
+:star: Chung Yee Han
+:star: Evelyn Cheah
 :star: Stephanie Chong 
-:star: Yee Han
 
 <div align="right">
     <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
