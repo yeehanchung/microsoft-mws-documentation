@@ -9,10 +9,10 @@ Time | Event | Host | Moderator
 1.50 pm - 2.00 pm  | Ready | - | -
 2.00 pm - 2.05 pm | Introduction | Lee Zhen Hao | -
 2.05 pm - 2.35 pm  | Microsoft Teams | Chung Yee Han | -
-3.45 pm - 3.45 pm  | PowerPoint | Isabella Chee | -
-2.35 pm - 3.05 pm  | OneDrive | Lee Zhen Hao | -
-3.05 pm - 3.45 pm  | OneNote | Irfan Iskandar | -
-3.05 pm - 3.45 pm  | Excel | Nazhif Ridzuan | -
-TBD | Ending speech | Chung Yee Han | -
+2.35 pm - 3.05 pm  | PowerPoint | Isabella Chee | -
+3.05 pm - 3.25 pm  | OneDrive | Lee Zhen Hao | -
+3.25 pm - 3.55 pm  | OneNote | Irfan Iskandar | -
+3.55 pm - 4.25 pm  | Excel | Nazhif Ridzuan | -
+4.25 pm - 4.30 | Ending speech | Crystal Lim | -
 4.30 pm | End | - | -
 
