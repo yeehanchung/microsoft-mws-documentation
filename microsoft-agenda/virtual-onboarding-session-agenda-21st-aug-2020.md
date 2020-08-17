@@ -1,7 +1,7 @@
 # Virtual Onboarding Session Agenda (21st Aug 2020, Friday)
 
 **Audience:** 
-- INTI Career Services, Microsoft Staff, and Microsoft Modern Workplace Squad.
+- INTI Career Services Staff, Microsoft Staff, and Microsoft Modern Workplace Squad.
   
 
 | Time              | Event                                             | Host |
