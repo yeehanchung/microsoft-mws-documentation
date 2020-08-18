@@ -6,18 +6,19 @@
 **Objectives:** 
 - To equip students with essential Microsoft Office 365 skills.
 
-Time | Event | Host | Moderator
-------- | ------- | ------- | -------
-1.50 pm - 2.00 pm  | Ready | - | -
-2.00 pm - 2.05 pm  | Introduction | Lee Zhen Hao | -
-2.05 pm - 2.35 pm (30m) | Microsoft Teams | Chung Yee Han | -
-2.35 pm - 3.05 pm (30m) | PowerPoint | Isabella Chee | -
-3.05 pm - 3.25 pm (20m) | OneDrive | Lee Zhen Hao | -
-15 minutes | Break time |  | -
-3.40 pm - 4.15 pm (30m) | OneNote | Irfan Iskandar | -
-4.15 pm - 4.55 pm (40m) | Excel | Nazhif Ridzuan | -
-4.55 pm - 5.00 pm | Ending speech | Crystal Lim | -
-5.00 pm | End | - | -
+| Time                    | Event           | Host              | Moderator |
+| ----------------------- | --------------- | ----------------- | --------- |
+| 1.50 pm - 2.00 pm       | Ready           | -                 | -         |
+| 2.00 pm - 2.05 pm (5m)  | Opening Remarks | Life Science Club | -         |
+| 2.05 pm - 2.10 pm (5m)  | Introduction    | Lee Zhen Hao      | -         |
+| 2.10 pm - 2.40 pm (30m) | Word + OneDrive | Lee Zhen Hao      | -         |
+| 2.40 pm - 3.10 pm (30m) | Microsoft Teams | Chung Yee Han     | -         |
+| 3.10 pm - 3.40 pm (30m) | PowerPoint      | Isabella Chee     | -         |
+| 15 minutes              | Break time      | -                 | -         |
+| 3.55 pm - 4.35 pm (40m) | OneNote         | Irfan Iskandar    | -         |
+| 4.35 pm - 5.10 pm (40m) | Excel           | Nazhif Ridzuan    | -         |
+| 5.10 pm - 5.15 pm (5m)  | Ending Remarks  | Crystal Lim       | -         |
+| 5.15 pm                 | End             | -                 | -         |
 
 <h4><em>*Please read this*</em></h4>
 
