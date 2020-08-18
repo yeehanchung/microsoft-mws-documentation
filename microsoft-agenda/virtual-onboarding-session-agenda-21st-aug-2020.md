@@ -4,14 +4,13 @@
 - INTI Career Services Staff, Microsoft Staff, and Microsoft Modern Workplace Squad.
   
 
-| Time              | Event                                             | Host |
-| ----------------- | ------------------------------------------------- | ---- |
-| 2.50 pm - 3.00 pm | Ready                                             | -    |
-| 3.00 pm           | Start                                             | -    |
-| 3.00 pm - 3.30 pm | Fun Time                                          | -    |
-| 3.30 pm - 4.00 pm | Welcoming New Joiners to the Squad                | TBD  |
-| 4.00 pm - 4.15 pm | The Mission & Vision of Modern Workplace Squad    | TBD  |
-| 4.15 pm - 4.30 pm | Future activities to expect and participate       | TBD  |
-| 4.30 pm - 4.45 pm | Introducing Social Media Programme to New Joiners | TBD  |
-| 4.45 pm - 5.00 pm | Fun Time                                          | -    |
-| 5.00 pm           | End                                               | -    |
+| Time                | Event                                             | Host |
+| ------------------- | ------------------------------------------------- | ---- |
+| 9.45 am - 10.00 am  | Ready                                             | -    |
+| 10.00 am            | Start                                             | -    |
+| 10.00 am - 10.20 am | Fun Time                                          | -    |
+| 10.20 am - 10.50 am | Welcoming New Joiners to the Squad                | TBD  |
+| 10.50 am - 11.10 am | The Mission & Vision of Modern Workplace Squad    | TBD  |
+| 11.10 am - 11.20 am | Future activities to expect and participate       | TBD  |
+| 11.20 am - 11.30 am | Introducing Social Media Programme to New Joiners | TBD  |
+| 11.30 am            | End                                               |
