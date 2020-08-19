@@ -1,7 +1,7 @@
 # Microsoft Virtual Bootcamp Agenda (26 Aug 2020, Wednesday)
 
-**Target audience:** 
-- INTI students from the Faculty of Life & Health Sciences (*Biotechnology*, *Physiology* & *Foundation in Science*).
+**Audience:** 
+- INTI students from the Faculty of Life & Health Sciences (*Biotechnology*, *Foundation in Science* & *Physiotherapy*).
 
 **Objectives:** 
 - To equip students with essential Microsoft Office 365 skills.
