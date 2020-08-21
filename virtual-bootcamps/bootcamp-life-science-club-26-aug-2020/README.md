@@ -26,5 +26,5 @@
 INTI provides free sign up for Microsoft Office 365 to INTI Students. Click [here](https://github.com/cyeehan/microsoft-resources) for Office 365 Installation Guide.
 
 <div align="right">
-    <b><a href="#microsoft-virtual-bootcamp-agenda-19-aug-2020-wednesday">^&nbsp Back To Top</a></b>
+    <b><a href="#microsoft-virtual-bootcamp-agenda-26-aug-2020-wednesday">^&nbsp Back To Top</a></b>
 </div>
