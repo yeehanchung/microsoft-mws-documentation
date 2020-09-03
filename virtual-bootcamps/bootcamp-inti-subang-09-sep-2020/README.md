@@ -4,7 +4,7 @@
 - INTI Subang business students in collaboration with University Hertfordshire.
 
 **Objectives:** 
-- To equip students with essential Microsoft Excel knowledge.
+- To equip students with essential Microsoft Excel skills.
 
 | Time                    | Event              | Host                   | Moderator  |
 | ----------------------- | ------------------ | ---------------------- | ---------- |
