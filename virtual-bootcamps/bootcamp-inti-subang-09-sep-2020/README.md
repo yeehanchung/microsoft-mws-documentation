@@ -6,16 +6,16 @@
 **Objectives:** 
 - To equip students with essential Microsoft Excel skills.
 
-| Time                    | Event              | Host                   | Moderator  |
-| ----------------------- | ------------------ | ---------------------- | ---------- |
-| 1.50 pm - 2.00 pm       | Ready              | Modern Workplace Squad | -          |
-| 2.00 pm - 2.10 pm (10m) | Opening Remarks    | TBD                    | -          |
-| 2.10 pm - 2.50 pm (40m) | **Excel - Part 1** | Tee Jye Yie            | Joanne Lou |
-| 2.50 pm - 3.00 pm (10m) | Break              | -                      | -          |
-| 3.00 pm - 3.45 pm (45m) | **Excel - Part 2** | Tee Jye Yie            | Joanne Lou |
-| 3.45 pm - 3.55 pm (10m) | Summary            | Tee Jye Yie            | Joanne Lou |
-| 3.55 pm - 4.00 pm (5m)  | Closing Remarks    | TBD                    | -          |
-| 4.00 pm                 | End                | -                      | -          |
+| Time                    | Event              | Host                                   | Moderator  |
+| ----------------------- | ------------------ | -------------------------------------- | ---------- |
+| 1.50 pm - 2.00 pm       | Ready              | Modern Workplace Squad                 | -          |
+| 2.00 pm - 2.05 pm (5m)  | Opening Remarks    | INTI Subang Faculty Staff              | -          |
+| 2.05 pm - 2.50 pm (45m) | **Excel - Part 1** | Tee Jye Yie                            | Joanne Lou |
+| 2.50 pm - 3.00 pm (10m) | Break              | -                                      | -          |
+| 3.00 pm - 3.45 pm (45m) | **Excel - Part 2** | Tee Jye Yie                            | Joanne Lou |
+| 3.45 pm - 3.55 pm (10m) | Summary            | Tee Jye Yie                            | Joanne Lou |
+| 3.55 pm - 4.00 pm (5m)  | Closing Remarks    | Modern Workplace Squad Leader (Subang) | -          |
+| 4.00 pm                 | End                | -                                      | -          |
 
 
 <h4><em>*Please read this*</em></h4>
