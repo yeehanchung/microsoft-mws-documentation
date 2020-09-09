@@ -1,11 +1,11 @@
 # Table of Contents
 
-  - [Step by Step Guide to Sign Up and Download Microsoft Office 365](#step-by-step-guide-to-sign-up-and-download-microsoft-office-365)
+  - [Step by Step Guide to Sign Up and Download Microsoft Office 365](#step-by-step-guide-to-sign-up-and-download-microsoft-office-365--)
   - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-  - [Contacts of Microsoft Modern Workplace Squad Leaders](#contacts-of-microsoft-modern-workplace-squad-leaders) 
-  - [Contributors 🎖](#contributors)
+  - [Contacts of Microsoft Modern Workplace Squad Leaders](#contacts-of-microsoft-modern-workplace-squad-leaders-) 
+  - [Contributors 🎖](#contributors-)
 
-It is recommended to download **Microsoft Teams** to access any Teams meetings, and it has to be downloaded separately:
+It's recommended to download **Microsoft Teams** to access any Teams meetings, and it has to be downloaded separately:
 - Click [here](https://www.microsoft.com/en-my/microsoft-365/microsoft-teams/group-chat-software) to download Microsoft Teams 🚀
 - Please read the FAQ section first if you face any issues 🙋 🙋‍♂️
 
