@@ -1,6 +1,6 @@
-<h2><u>What to prepare when organizing a virtual Microsoft O365 Bootcamp?</u></h2> 
+# Organizing a virtual Microsoft O365 Bootcamp? 🚀
 
-- [Table of contents](#table-of-contents)
+- [Organizing a virtual Microsoft O365 Bootcamp? 🚀](#organizing-a-virtual-microsoft-o365-bootcamp-)
   - [1. Create a Bootcamp agenda](#1-create-a-bootcamp-agenda)
   - [2. Create registration form](#2-create-registration-form)
   - [3. Create feedback form](#3-create-feedback-form)
@@ -11,8 +11,6 @@
   - [8. Post-mortem](#8-post-mortem)
   - [9. Final work](#9-final-work)
   
-# Table of contents
-
 ## 1. Create a Bootcamp agenda
 
 - May refer to the previous agenda created.
