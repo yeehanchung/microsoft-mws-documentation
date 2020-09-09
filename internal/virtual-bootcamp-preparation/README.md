@@ -36,7 +36,7 @@
 - If possible, we have to include the hands-on files in the email for students' convenience.
 - Format is provided below:
 
-<img src="./email-guideline.png" width="900" height="500">
+![Email template](./email-template.png)
 
 <br><br>
 
