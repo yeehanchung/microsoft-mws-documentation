@@ -13,4 +13,4 @@
 | 10.50 am - 11.10 am | The Mission & Vision of Modern Workplace Squad    | Mun Hong              |
 | 11.10 am - 11.20 am | Future Activities to Expect and Participate       | Yee Han               |
 | 11.20 am - 11.30 am | Introducing Social Media Programme to New Joiners | Crystal               |
-| 11.30 am            | End                                               |
+| 11.30 am            | End                                               | -                     |
