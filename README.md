@@ -101,7 +101,7 @@ Please send an email 📧 to INTI IT Services, helpdesk@newinti.edu.my to reques
 
 Please ensure you are using your INTI Microsoft student account.
 
-- Unable to open camera or sharing your screen during a meeting?
+- Unable to open camera or share your screen during a meeting?
 
 Ensure that you are accessing the meeting with **Microsoft Teams software** using your **Microsoft registered student account**.
 
