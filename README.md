@@ -21,75 +21,9 @@ It's recommended to download **Microsoft Teams** to access any Teams meetings:
 
 <br/>
 
-### 1. Go to https://bit.ly/32s12g0 and enter your INTI student email address `xxx@student.newinti.edu.my`. 
-
-<br/><br/>
-
-![Step 1](./img/install-guides/guide-step-1.png)
-
-<br/><br/>
-
-### 2. Click “I’m a student”
-
-<br/><br/>
-
-![Step 2](./img/install-guides/guide-step-2.png)
-
-<br/><br/>
-
-### 3. Create your account and enter the verification code. Verification code has been sent to your INTI student email. Click “Start” to continue.
-
-<br/><br/>
-
-![Step 3](./img/install-guides/guide-step-3.png)
-
-<br/><br/>
-
-### 4. Click “Skip”.
-
-<br/><br/>
-
-![Step 4](./img/install-guides/guide-step-4.png)
-
-<br/><br/>
-
-### 5. Click “Install Office” and “Office 365 apps”.
-
-<br/><br/>
-
-![Step 5](./img/install-guides/guide-step-5.png)
-
-<br/><br/>
-
-### 6. Wait for the installer to be downloaded. </h4>
-
-<br/><br/>
-
-![Step 6](./img/install-guides/guide-step-6.png)
-
-<br/><br/>
-
-### 7. Run the downloaded installer and follow the instructions. </h4>
-
-<br/><br/>
-
-![Step 7](./img/install-guides/guide-step-7.png)
+### Refer to [our website](https://modern-workplace-squad.netlify.app/docs/installations/install-1)
 
 <br/>
-
-### End 
-
-<br/>
-
-- To access your Microsoft student account, go to http://portal.office.com and sign in with your student account `xxx@student.newinti.edu.my`
-
-- To install your Microsoft Office 365, follow the Step 5️⃣ to 7️⃣ to **download** and **install**.
-
-- Reference [link](https://sites.google.com/newinti.edu.my/intihub/get-office-365?authuser=0).
-
-<div align="right">
-    <b><a href="#table-of-contents">^&nbsp Back To Top</a></b>
-</div>
 
 ## [#](#-frequently-asked-questions-faq) Frequently Asked Questions (FAQ)
 
