@@ -21,7 +21,7 @@ It's recommended to download **Microsoft Teams** to access any Teams meetings:
 
 <br/>
 
-### Refer to [our website](https://modern-workplace-squad.netlify.app/docs/installations/install-1)
+### Refer to [our website](https://modern-workplace-squad.netlify.app/docs/installation/install-microsoft-office-365)
 
 <br/>
 
